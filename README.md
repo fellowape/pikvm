@@ -339,6 +339,7 @@ These kind people donated money to the PiKVM project and supported work on it. W
 * Adam Goodbar
 * Adam S
 * Adam Stuart
+* AdamBomb
 * adipisicing
 * Adrian Basham
 * Ahmed Syed
@@ -660,6 +661,7 @@ These kind people donated money to the PiKVM project and supported work on it. W
 * Ľubor Slušný
 * Luca Di Diomede
 * Lucio De Carli
+* Luiz Bizzio
 * Lukas Bischof
 * Lukas Kammerer
 * Lukas Söder
@@ -685,6 +687,7 @@ These kind people donated money to the PiKVM project and supported work on it. W
 * Marshall Bjerke
 * Marten Hermans
 * Martin Gasser
+* Martin Raine
 * Martin Suelmann
 * Martin Wilhelmi
 * Marvin Honderboom
@@ -749,6 +752,7 @@ These kind people donated money to the PiKVM project and supported work on it. W
 * Paul Bishop
 * Paul De La Rosa
 * Paul Pietkiewicz
+* Paul Tan
 * Pawel Trofimiuk
 * Peder Madsen
 * Peter
@@ -775,6 +779,7 @@ These kind people donated money to the PiKVM project and supported work on it. W
 * Ref Chowdhury
 * Raphael Schitz
 * René Rathenau
+* ReysDad
 * Ricardo Marques
 * Richard
 * Richard Bernarts
